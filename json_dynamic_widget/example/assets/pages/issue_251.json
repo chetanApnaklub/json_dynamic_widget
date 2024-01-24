@@ -1,0 +1,938 @@
+{
+  "type": "set_value",
+  "args": {
+    "values": {
+      "productEntries": [
+        {
+          "productId": "<productId>",
+          "productSku": "<productSku>",
+          "topMarkerImageUrl": "",
+          "middleMarkerImageUrl": "",
+          "bottomMarkerImageUrl": "",
+          "productImage": "https://ik.imagekit.io/lgx9ezsh73mm/product_not_found.png",
+          "productName": "Lux International Creamy Perfection Mega Pack 4U X 125g",
+          "productVolume": "",
+          "price": "₹280.00",
+          "mrp": "₹330.00",
+          "margin": "15.15%",
+          "deliveryDurationDays": "2-3 Days",
+          "productAvailability": 0,
+          "isHotDeal": false
+        },
+        {
+          "productId": "<productId>",
+          "productSku": "<productSku>",
+          "topMarkerImageUrl": "",
+          "middleMarkerImageUrl": "",
+          "bottomMarkerImageUrl": "",
+          "productImage": "https://ik.imagekit.io/lgx9ezsh73mm/f25c338e4203053357967.jpg",
+          "productName": "Mediker Natural Anti-Lice Treatment Shampoo 90U X 5ml",
+          "productVolume": "",
+          "price": "₹4.91",
+          "mrp": "₹6.00",
+          "margin": "18.17%",
+          "deliveryDurationDays": "2-3 Days",
+          "productAvailability": 0,
+          "isHotDeal": false
+        },
+        {
+          "productId": "<productId>",
+          "productSku": "<productSku>",
+          "topMarkerImageUrl": "",
+          "middleMarkerImageUrl": "",
+          "bottomMarkerImageUrl": "",
+          "productImage": "https://ik.imagekit.io/lgx9ezsh73mm/product_not_found.png",
+          "productName": "Hair & Care Aloe Vera Hair Oil 200ml",
+          "productVolume": "",
+          "price": "₹93.14",
+          "mrp": "₹120.00",
+          "margin": "22.38%",
+          "deliveryDurationDays": "2-3 Days",
+          "productAvailability": 0,
+          "isHotDeal": false
+        },
+        {
+          "productId": "<productId>",
+          "productSku": "<productSku>",
+          "topMarkerImageUrl": "",
+          "middleMarkerImageUrl": "",
+          "bottomMarkerImageUrl": "",
+          "productImage": "https://ik.imagekit.io/lgx9ezsh73mm/retool_uploader_606552C298A8D9373164A56D_date_2022-08-27T18:36:01.559Z.jpg",
+          "productName": "MamyPoko Standard Diaper Pants L 30U",
+          "productVolume": "",
+          "price": "₹273.53",
+          "mrp": "₹399.00",
+          "margin": "31.45%",
+          "deliveryDurationDays": "2-3 Days",
+          "productAvailability": 0,
+          "isHotDeal": false
+        },
+        {
+          "productId": 3161,
+          "productSku": "<productSku>",
+          "topMarkerImageUrl": "",
+          "middleMarkerImageUrl": "",
+          "bottomMarkerImageUrl": "",
+          "productImage": "https://ik.imagekit.io/lgx9ezsh73mm/3f7ebb246f85dce6cde9clinicPlus1rupee.jpg",
+          "productName": "Clinic Plus Strong & Long Sachet 960X6ml",
+          "productVolume": "",
+          "price": "₹710.00",
+          "mrp": "₹960.00",
+          "margin": "26.04%",
+          "deliveryDurationDays": "2-3 Days",
+          "productAvailability": 0,
+          "isHotDeal": false
+        },
+        {
+          "productId": "<productId>",
+          "productSku": "<productSku>",
+          "topMarkerImageUrl": "",
+          "middleMarkerImageUrl": "",
+          "bottomMarkerImageUrl": "",
+          "productImage": "https://ik.imagekit.io/lgx9ezsh73mm/retool_uploader_579dbf236c35776cb94ad6ce_date_1669181668068.jpg",
+          "productName": "Lakme Eyeconic Kajal 0.33g",
+          "productVolume": "",
+          "price": "₹162.00",
+          "mrp": "₹190.00",
+          "margin": "14.74%",
+          "deliveryDurationDays": "2-3 Days",
+          "productAvailability": 0,
+          "isHotDeal": false
+        },
+        {
+          "productId": "<productId>",
+          "productSku": "<productSku>",
+          "topMarkerImageUrl": "",
+          "middleMarkerImageUrl": "",
+          "bottomMarkerImageUrl": "",
+          "productImage": "https://ik.imagekit.io/lgx9ezsh73mm/n8n_uploader_new_5c91e4a94b1d1271dc42df7e_0",
+          "productName": "Vim Dishwash Bar 500g",
+          "productVolume": "",
+          "price": "₹50.88",
+          "mrp": "₹60.00",
+          "margin": "15.20%",
+          "deliveryDurationDays": "2-3 Days",
+          "productAvailability": 0,
+          "isHotDeal": false
+        },
+        {
+          "productId": "<productId>",
+          "productSku": "<productSku>",
+          "topMarkerImageUrl": "",
+          "middleMarkerImageUrl": "",
+          "bottomMarkerImageUrl": "",
+          "productImage": "https://ik.imagekit.io/lgx9ezsh73mm/product_not_found.png",
+          "productName": "Vim Dishwashing Liquid 750ml",
+          "productVolume": "",
+          "price": "₹160.20",
+          "mrp": "₹199.00",
+          "margin": "19.50%",
+          "deliveryDurationDays": "2-3 Days",
+          "productAvailability": 0,
+          "isHotDeal": false
+        },
+        {
+          "productId": "<productId>",
+          "productSku": "61c70419ab2e52002d45f3b4",
+          "topMarkerImageUrl": "",
+          "middleMarkerImageUrl": "",
+          "bottomMarkerImageUrl": "",
+          "productImage": "https://ik.imagekit.io/lgx9ezsh73mm/retool_uploader_61c70419ab2e52002d45f3b4_date_2022-08-30T03:21:45.724Z.jpg",
+          "productName": "Rexona Coconut and Olive Oil Soap 3U X 150g",
+          "productVolume": "",
+          "price": "₹169.44",
+          "mrp": "₹231.00",
+          "margin": "26.65%",
+          "deliveryDurationDays": "2-3 Days",
+          "productAvailability": 0,
+          "isHotDeal": false
+        },
+        {
+          "productId": "<productId>",
+          "productSku": "<productSku>",
+          "topMarkerImageUrl": "",
+          "middleMarkerImageUrl": "",
+          "bottomMarkerImageUrl": "",
+          "productImage": "https://ik.imagekit.io/lgx9ezsh73mm/n8n_uploader_new_e0bf3ab0008a0b8729b535b5_0",
+          "productName": "GAINDA Disinfectant White Phenyle 1L",
+          "productVolume": "",
+          "price": "₹33.48",
+          "mrp": "₹60.00",
+          "margin": "44.20%",
+          "deliveryDurationDays": "2-3 Days",
+          "productAvailability": 0,
+          "isHotDeal": false
+        }
+      ],
+      "template": {
+        "type": "container",
+        "args": {
+          "width": "150",
+          "child": {
+            "type": "row",
+            "args": {
+              "crossAxisAlignment": "start",
+              "mainAxisSize": "min",
+              "children": [
+                {
+                  "type": "conditional",
+                  "args": {
+                    "conditional": {
+                      "values": {
+                        "index": 0
+                      }
+                    },
+                    "onTrue": {
+                      "type": "sized_box",
+                      "args": {
+                        "width": 8
+                      }
+                    }
+                  }
+                },
+                {
+                  "type": "expanded",
+                  "args": {
+                    "child": {
+                      "type": "ink_well",
+                      "args": {
+                        "onTap": "",
+                        "child": {
+                          "type": "row",
+                          "args": {
+                            "crossAxisAlignment": "start",
+                            "children": [
+                              {
+                                "type": "sized_box",
+                                "args": {
+                                  "width": 4
+                                }
+                              },
+                              {
+                                "type": "expanded",
+                                "args": {
+                                  "child": {
+                                    "type": "container",
+                                    "args": {
+                                      "decoration": {
+                                        "border": {
+                                          "color": "#CECBCB"
+                                        },
+                                        "borderRadius": {
+                                          "type": "circular",
+                                          "radius": 10
+                                        }
+                                      },
+                                      "child": {
+                                        "type": "column",
+                                        "args": {
+                                          "crossAxisAlignment": "start",
+                                          "mainAxisSize": "min",
+                                          "children": [
+                                            {
+                                              "type": "column",
+                                              "args": {
+                                                "children": [
+                                                  {
+                                                    "type": "set_value",
+                                                    "args": {
+                                                      "values": {
+                                                        "isTopMarkerAvailable": false
+                                                      },
+                                                      "child": {
+                                                        "type": "stack",
+                                                        "args": {
+                                                          "children": [
+                                                            {
+                                                              "type": "conditional",
+                                                              "args": {
+                                                                "conditional": {
+                                                                  "values": {
+                                                                    "isTopMarkerAvailable": true
+                                                                  }
+                                                                },
+                                                                "onTrue": {
+                                                                  "type": "clip_rrect",
+                                                                  "args": {
+                                                                    "borderRadius": {
+                                                                      "type": "vertical",
+                                                                      "top": 10
+                                                                    },
+                                                                    "child": {
+                                                                      "type": "network_image",
+                                                                      "args": {
+                                                                        "src": "",
+                                                                        "width": "infinity",
+                                                                        "height": 16,
+                                                                        "fit": "fitWidth"
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          ]
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "type": "container",
+                                                    "args": {
+                                                      "width": "infinity",
+                                                      "child": {
+                                                        "type": "stack",
+                                                        "args": {
+                                                          "children": [
+                                                            {
+                                                              "type": "center",
+                                                              "args": {
+                                                                "child": {
+                                                                  "type": "clip_rrect",
+                                                                  "args": {
+                                                                    "borderRadius": {
+                                                                      "type": "vertical",
+                                                                      "top": 10
+                                                                    },
+                                                                    "child": {
+                                                                      "type": "network_image",
+                                                                      "args": {
+                                                                        "src": "\\${value['productImage']}",
+                                                                        "height": 110,
+                                                                        "fit": "fitHeight"
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "set_value",
+                                                              "args": {
+                                                                "values": {
+                                                                  "isHotDeal": "\\${value['isHotDeal']}"
+                                                                },
+                                                                "child": {
+                                                                  "type": "stack",
+                                                                  "args": {
+                                                                    "children": [
+                                                                      {
+                                                                        "type": "conditional",
+                                                                        "args": {
+                                                                          "conditional": {
+                                                                            "values": {
+                                                                              "isHotDeal": true
+                                                                            }
+                                                                          },
+                                                                          "onTrue": {
+                                                                            "type": "clip_rrect",
+                                                                            "args": {
+                                                                              "borderRadius": {
+                                                                                "type": "only",
+                                                                                "topLeft": 10
+                                                                              },
+                                                                              "child": {
+                                                                                "type": "asset_image",
+                                                                                "args": {
+                                                                                  "name": "assets/images/hot_deal_icon.png",
+                                                                                  "height": 32,
+                                                                                  "fit": "fitHeight"
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "positioned",
+                                                              "args": {
+                                                                "bottom": 0,
+                                                                "child": {
+                                                                  "type": "set_value",
+                                                                  "args": {
+                                                                    "values": {
+                                                                      "isMiddleMarkerAvailable": false
+                                                                    },
+                                                                    "child": {
+                                                                      "type": "stack",
+                                                                      "args": {
+                                                                        "children": [
+                                                                          {
+                                                                            "type": "conditional",
+                                                                            "args": {
+                                                                              "conditional": {
+                                                                                "values": {
+                                                                                  "isMiddleMarkerAvailable": true
+                                                                                }
+                                                                              },
+                                                                              "onTrue": {
+                                                                                "type": "network_image",
+                                                                                "args": {
+                                                                                  "src": "\\${value['middleMarkerImageUrl']}",
+                                                                                  "height": 16
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          ]
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            {
+                                              "type": "sized_box",
+                                              "args": {
+                                                "height": 8
+                                              }
+                                            },
+                                            {
+                                              "type": "padding",
+                                              "args": {
+                                                "padding": [
+                                                  4,
+                                                  0
+                                                ],
+                                                "child": {
+                                                  "type": "column",
+                                                  "args": {
+                                                    "crossAxisAlignment": "start",
+                                                    "children": [
+                                                      {
+                                                        "type": "row",
+                                                        "args": {
+                                                          "children": [
+                                                            {
+                                                              "type": "expanded",
+                                                              "args": {
+                                                                "child": {
+                                                                  "type": "text",
+                                                                  "args": {
+                                                                    "text": "\\${value['productName']}",
+                                                                    "maxLines": 1,
+                                                                    "overflow": "ellipsis"
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "sized_box",
+                                                              "args": {
+                                                                "width": 4
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "text",
+                                                              "args": {
+                                                                "text": "\\${value['productVolume']}"
+                                                              }
+                                                            }
+                                                          ]
+                                                        }
+                                                      },
+                                                      {
+                                                        "type": "sized_box",
+                                                        "args": {
+                                                          "height": 4
+                                                        }
+                                                      },
+                                                      {
+                                                        "type": "text",
+                                                        "args": {
+                                                          "text": "\\${value['price']}",
+                                                          "style": {
+                                                            "fontWeight": "bold"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "type": "sized_box",
+                                                        "args": {
+                                                          "height": 4
+                                                        }
+                                                      },
+                                                      {
+                                                        "type": "row",
+                                                        "args": {
+                                                          "mainAxisAlignment": "spaceBetween",
+                                                          "children": [
+                                                            {
+                                                              "type": "text",
+                                                              "args": {
+                                                                "text": "\\${value['mrp']}",
+                                                                "style": {
+                                                                  "decoration": "lineThrough",
+                                                                  "color": "#FFBBBBBB"
+                                                                }
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "text",
+                                                              "args": {
+                                                                "text": "\\${value['margin']}",
+                                                                "style": {
+                                                                  "color": "#FF00BB00"
+                                                                }
+                                                              }
+                                                            }
+                                                          ]
+                                                        }
+                                                      },
+                                                      {
+                                                        "type": "sized_box",
+                                                        "args": {
+                                                          "height": 4
+                                                        }
+                                                      },
+                                                      {
+                                                        "type": "row",
+                                                        "args": {
+                                                          "children": [
+                                                            {
+                                                              "type": "svg",
+                                                              "args": {
+                                                                "asset": "assets/icons/ic_delivery_icon_truck.svg",
+                                                                "width": 24,
+                                                                "height": 24,
+                                                                "color": "#ff001b35"
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "sized_box",
+                                                              "args": {
+                                                                "width": 8
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "text",
+                                                              "args": {
+                                                                "text": "\\${value['deliveryDurationDays']}"
+                                                              }
+                                                            }
+                                                          ]
+                                                        }
+                                                      }
+                                                    ]
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "type": "sized_box",
+                                              "args": {
+                                                "height": 8
+                                              }
+                                            },
+                                            {
+                                              "type": "column",
+                                              "args": {
+                                                "children": [
+                                                  {
+                                                    "type": "set_value",
+                                                    "args": {
+                                                      "values": {
+                                                        "isTopMarkerAvailable": false
+                                                      },
+                                                      "child": {
+                                                        "type": "stack",
+                                                        "args": {
+                                                          "children": [
+                                                            {
+                                                              "type": "conditional",
+                                                              "args": {
+                                                                "conditional": {
+                                                                  "values": {
+                                                                    "isTopMarkerAvailable": false
+                                                                  }
+                                                                },
+                                                                "onTrue": {
+                                                                  "type": "sized_box",
+                                                                  "args": {
+                                                                    "height": 16
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          ]
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "type": "set_value",
+                                                    "args": {
+                                                      "values": {
+                                                        "isBottomMarkerAvailable": false
+                                                      },
+                                                      "child": {
+                                                        "type": "stack",
+                                                        "args": {
+                                                          "children": [
+                                                            {
+                                                              "type": "conditional",
+                                                              "args": {
+                                                                "conditional": {
+                                                                  "values": {
+                                                                    "isBottomMarkerAvailable": true
+                                                                  }
+                                                                },
+                                                                "onTrue": {
+                                                                  "type": "network_image",
+                                                                  "args": {
+                                                                    "src": "\\${value['bottomMarkerImageUrl']}",
+                                                                    "width": "infinity",
+                                                                    "height": 16,
+                                                                    "fit": "fitWidth"
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "conditional",
+                                                              "args": {
+                                                                "conditional": {
+                                                                  "values": {
+                                                                    "isBottomMarkerAvailable": false
+                                                                  }
+                                                                },
+                                                                "onTrue": {
+                                                                  "type": "sized_box",
+                                                                  "args": {
+                                                                    "height": 16
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          ]
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "type": "set_value",
+                                                    "args": {
+                                                      "values": {
+                                                        "productAvailabilityStatus": "\\${value['productAvailability']}"
+                                                      },
+                                                      "child": {
+                                                        "type": "stack",
+                                                        "args": {
+                                                          "children": [
+                                                            {
+                                                              "type": "conditional",
+                                                              "args": {
+                                                                "conditional": {
+                                                                  "values": {
+                                                                    "productAvailabilityStatus": 0
+                                                                  }
+                                                                },
+                                                                "onTrue": {
+                                                                  "type": "container",
+                                                                  "args": {
+                                                                    "width": "infinity",
+                                                                    "margin": [
+                                                                      4,
+                                                                      0
+                                                                    ],
+                                                                    "child": {
+                                                                      "type": "elevated_button",
+                                                                      "args": {
+                                                                        "onPressed": "",
+                                                                        "style": {
+                                                                          "elevation": 0,
+                                                                          "padding": 0,
+                                                                          "shape": {
+                                                                            "type": "rounded",
+                                                                            "borderRadius": 10
+                                                                          }
+                                                                        },
+                                                                        "child": {
+                                                                          "type": "row",
+                                                                          "args": {
+                                                                            "mainAxisSize": "min",
+                                                                            "children": [
+                                                                              {
+                                                                                "type": "asset_image",
+                                                                                "args": {
+                                                                                  "name": "assets/images/cart_icon.png",
+                                                                                  "color": "#ffffffff",
+                                                                                  "width": 24
+                                                                                }
+                                                                              },
+                                                                              {
+                                                                                "type": "sized_box",
+                                                                                "args": {
+                                                                                  "width": 8
+                                                                                }
+                                                                              },
+                                                                              {
+                                                                                "type": "text",
+                                                                                "args": {
+                                                                                  "text": "ADD TO CART"
+                                                                                }
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "conditional",
+                                                              "args": {
+                                                                "conditional": {
+                                                                  "values": {
+                                                                    "productAvailabilityStatus": 1
+                                                                  }
+                                                                },
+                                                                "onTrue": {
+                                                                  "type": "container",
+                                                                  "args": {
+                                                                    "width": "infinity",
+                                                                    "margin": [
+                                                                      4,
+                                                                      0
+                                                                    ],
+                                                                    "child": {
+                                                                      "type": "outlined_button",
+                                                                      "args": {
+                                                                        "onPressed": "${null}",
+                                                                        "style": {
+                                                                          "elevation": 0,
+                                                                          "padding": 0,
+                                                                          "shape": {
+                                                                            "type": "rounded",
+                                                                            "borderRadius": 10
+                                                                          }
+                                                                        },
+                                                                        "child": {
+                                                                          "type": "text",
+                                                                          "args": {
+                                                                            "text": "Out of stock"
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            {
+                                                              "type": "conditional",
+                                                              "args": {
+                                                                "conditional": {
+                                                                  "values": {
+                                                                    "productAvailabilityStatus": 2
+                                                                  }
+                                                                },
+                                                                "onTrue": {
+                                                                  "type": "set_value",
+                                                                  "args": {
+                                                                    "values": {
+                                                                      "isNotifyMeTapped": false
+                                                                    },
+                                                                    "child": {
+                                                                      "type": "conditional",
+                                                                      "args": {
+                                                                        "conditional": {
+                                                                          "values": {
+                                                                            "isNotifyMeTapped": true
+                                                                          }
+                                                                        },
+                                                                        "onTrue": {
+                                                                          "type": "container",
+                                                                          "args": {
+                                                                            "width": "infinity",
+                                                                            "margin": [
+                                                                              4,
+                                                                              0
+                                                                            ],
+                                                                            "child": {
+                                                                              "type": "outlined_button",
+                                                                              "args": {
+                                                                                "onPressed": "${null}",
+                                                                                "style": {
+                                                                                  "elevation": 0,
+                                                                                  "padding": 0,
+                                                                                  "side": {
+                                                                                    "color": "#80090f47"
+                                                                                  },
+                                                                                  "shape": {
+                                                                                    "type": "rounded",
+                                                                                    "borderRadius": 10
+                                                                                  }
+                                                                                },
+                                                                                "child": {
+                                                                                  "type": "text",
+                                                                                  "args": {
+                                                                                    "text": "Notify Me"
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        },
+                                                                        "onFalse": {
+                                                                          "type": "set_value",
+                                                                          "args": {
+                                                                            "values": {
+                                                                              "isNotifyMeTappedSharedPref": false
+                                                                            },
+                                                                            "child": {
+                                                                              "type": "conditional",
+                                                                              "args": {
+                                                                                "conditional": {
+                                                                                  "values": {
+                                                                                    "isNotifyMeTappedSharedPref": false
+                                                                                  }
+                                                                                },
+                                                                                "onTrue": {
+                                                                                  "type": "container",
+                                                                                  "args": {
+                                                                                    "width": "infinity",
+                                                                                    "margin": [
+                                                                                      4,
+                                                                                      0
+                                                                                    ],
+                                                                                    "child": {
+                                                                                      "type": "outlined_button",
+                                                                                      "args": {
+                                                                                        "onPressed": "",
+                                                                                        "style": {
+                                                                                          "elevation": 0,
+                                                                                          "padding": 0,
+                                                                                          "shape": {
+                                                                                            "type": "rounded",
+                                                                                            "borderRadius": 10
+                                                                                          }
+                                                                                        },
+                                                                                        "child": {
+                                                                                          "type": "text",
+                                                                                          "args": {
+                                                                                            "text": "Notify Me"
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                },
+                                                                                "onFalse": {
+                                                                                  "type": "container",
+                                                                                  "args": {
+                                                                                    "width": "infinity",
+                                                                                    "margin": [
+                                                                                      4,
+                                                                                      0
+                                                                                    ],
+                                                                                    "child": {
+                                                                                      "type": "outlined_button",
+                                                                                      "args": {
+                                                                                        "onPressed": "\\${null}",
+                                                                                        "style": {
+                                                                                          "elevation": 0,
+                                                                                          "padding": 0,
+                                                                                          "side": {
+                                                                                            "color": "#80090f47"
+                                                                                          },
+                                                                                          "shape": {
+                                                                                            "type": "rounded",
+                                                                                            "borderRadius": 10
+                                                                                          }
+                                                                                        },
+                                                                                        "child": {
+                                                                                          "type": "text",
+                                                                                          "args": {
+                                                                                            "text": "Notify Me"
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          ]
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              {
+                                "type": "sized_box",
+                                "args": {
+                                  "width": 4
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "type": "conditional",
+                  "args": {
+                    "conditional": {
+                      "values": {
+                        "index": "\\${length(productEntries) - 1}"
+                      }
+                    },
+                    "onTrue": {
+                      "type": "sized_box",
+                      "args": {
+                        "width": 8
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "child": {
+      "type": "wrap",
+      "args": {
+        "runSpacing": 8,
+        "alignment": "WrapAlignment.spaceBetween",
+        "children": "${for_each(productEntries, \"template\")}"
+      }
+    }
+  }
+}
